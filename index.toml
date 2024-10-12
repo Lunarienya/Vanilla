@@ -101,6 +101,11 @@ hash = "3d5c721500e674eb2eca84b7aa5c03938544252c142cc9131005477164455108"
 metafile = true
 
 [[files]]
+file = "mods/easy-eula.pw.toml"
+hash = "75d08c3e37e6647de04ea8ccc9c017e28797e4ffd8c126afc34de36cae01cb0e"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
