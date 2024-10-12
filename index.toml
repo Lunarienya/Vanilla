@@ -91,6 +91,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "52fa1b72e22e15602b1be6fcdef9415707c5449722024b68d110862e51a28d7b"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "9dffd9227080573afe3a6a6149d99e6d367742cde47eb655d0b22d3cc29bbda7"
 metafile = true
