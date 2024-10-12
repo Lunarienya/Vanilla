@@ -1,0 +1,13 @@
+name = "Vanilla"
+author = "sammyette"
+version = "\\"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18febcaa92319eaa6efa749404561a6d1cd8ce03a95960cdac2b16e66c2a364b"
+
+[versions]
+fabric = "0.16.7"
+minecraft = "1.20.1"
