@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "97548efc8681b6dd128bfa1aa8c40afe725fcd55678e1e90a8c16636d5969087"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "82100c87851b5e0665c6e1746ac75dca070cb50e6b3aa3760283f58b5deac7d0"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "1384b46885514680288793cdfa6cc39768aa2a87d6d1c66bec7c5aa9ae54b7ee"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "cda3ee9acd610baf9590f52ed3b2d27ddd01ac925044840ae4e140c07d3466db"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "2a9a9a0a30891bb7fce3f8a0165367fe93fc597f58e87d345cb4e938a963a485"
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
 metafile = true
@@ -13,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
@@ -321,6 +340,11 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "d9439d9594d8666f09ac0634ee9bbcf82c430de010896f87e7cd44d17a4391d7"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "c9115a7b1baf49c0fe57ab0f0c2c1e29b69a7986009927d2a73fc5d4a3df4f4c"
 metafile = true
@@ -334,3 +358,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
+
+[[files]]
+file = "options.amecsapi.txt"
+hash = "9fdfce23c8031a94e79e0fa77040a9622fadff03856e40f76826a20fd26f2348"
+
+[[files]]
+file = "options.txt"
+hash = "f1939525b4d17bea7f7aa36c2068b324b3825f980c19a5e57c32504e3bc9668d"
