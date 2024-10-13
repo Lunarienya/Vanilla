@@ -46,6 +46,11 @@ hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "d1f57e37f09cb403b78dbf617219260bb25898f75ce0bac175eb4b2e32fdbaf9"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "96360a2d39f22bce60dc35d0e2354eaeb6682e9688cb0e31429ea29cf27ef2aa"
 metafile = true
