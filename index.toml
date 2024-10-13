@@ -370,11 +370,6 @@ hash = "e012c2d48d8c2ef08e8a77a83476db46a81f9a5ee3aa90e5c57e2af508bd9089"
 metafile = true
 
 [[files]]
-file = "mods/yet-another-minecraft-bingo.pw.toml"
-hash = "2c0c56c81cbd4bd9d8ecdd66bf5775c71bb442d35e4a94081ff90fa7ecf43575"
-metafile = true
-
-[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "6e3c46cc7523df95fefba675b177ff0abfda3b72c893add5ce64390ad137ab8f"
 metafile = true
