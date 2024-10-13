@@ -236,6 +236,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/narrusyeetus-no-error.pw.toml"
+hash = "28b4948ace6efc4dd678c7aebc8c67464721959abb9df088be23bdbbfb6c69eb"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
