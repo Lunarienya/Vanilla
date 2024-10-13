@@ -110,6 +110,11 @@ hash = "9fdbfbd4ffaf654824a317ff6b1fea2906ca25cec0bc2c401248710d2d308f5d"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "a26212e0617f282cb211f8d30eb3aa014ff40a10f9bbc6115bacf54585e5c0c2"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
+metafile = true
+
+[[files]]
+file = "mods/maintenancemode.pw.toml"
+hash = "5b0bf2f3d62509f1ba5c3a137f62eedb557769f362496692d92d4bd84a395306"
 metafile = true
 
 [[files]]
