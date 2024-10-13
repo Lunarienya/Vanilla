@@ -251,11 +251,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/safe-respawn.pw.toml"
-hash = "857f7969e96e2155b123b1171f449d78eae9b394529299686e0feb3820df5ef6"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
