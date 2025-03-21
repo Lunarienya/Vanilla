@@ -150,6 +150,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/edgeless-chat-screen.pw.toml"
+hash = "2c300c56461c84e38ec442c436ae10dbbbca0cb254d352c40a3c03f636c29cd2"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
@@ -311,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9826271c67de05228a9550a7639dfe970dec0252604e906c9c71f339ba0d275b"
+hash = "6e6ab7c329eee464f5e39e7f327a148626d9aff1f74fed0020de7686d006edea"
 metafile = true
 
 [[files]]
