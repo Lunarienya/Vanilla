@@ -17,6 +17,10 @@ file = "config/sodium-options.json"
 hash = "cda3ee9acd610baf9590f52ed3b2d27ddd01ac925044840ae4e140c07d3466db"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "0043f32868e25605b417f0cc17254e90926b564e108c7c40acd02a47413fb1af"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
 
