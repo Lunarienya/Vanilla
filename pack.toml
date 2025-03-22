@@ -1,13 +1,13 @@
 name = "Vanilla"
 author = "sammyette"
-version = "\\"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a989036550d2413912c8d535256f12ddc86b6d72f916b4171d92637413b714a6"
+hash = "fd90371bc8ca5a47b018d4c764f149b26439f1890c69965b7cbbb5f04eb5a91b"
 
 [versions]
 fabric = "0.16.10"
-minecraft = "1.21.1"
+minecraft = "1.21.4"
