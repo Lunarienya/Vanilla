@@ -294,6 +294,11 @@ hash = "156495b9b9cfa4471e61098866483138f4a9cfc5d4ad853bba0e502f96d38048"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
 file = "mods/quickbench.pw.toml"
 hash = "7c5503b6195252b1b8286184e5683d5bc3d8905a58f10941180d0f805d9ee395"
 metafile = true
